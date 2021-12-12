@@ -23,6 +23,16 @@ public class NumberSystems {
 			System.out.println(hex);
 			
 		
+			//What decimal number is encoded in hexadecimal name of the rock band - ACDC? 
+			
+			/*
+			 * dec A = 10 * 16^3 --> 40960
+			 * dec C = 12 * 16^2 --> 3072
+			 * dec D = 13 * 16^1 --> 208
+			 * dec C = 12 * 16^0 --> 12
+			 * 
+			 * ACDC = 40960 + 3072 + 208 +12 --> 44252
+			 * */
 		
 	}
 
