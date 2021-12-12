@@ -1,4 +1,4 @@
-package com.gitbulls.sukhanova;
+package com.itbulls.sukhanova;
 
 
 public class HelloWorld {
