@@ -1,6 +1,5 @@
-package com.itbulls.learnit.javacore;
+package com.itbulls.learnit.javacore.arrays;
 
-import java.util.Arrays;
 
 public class Arrays {
 

@@ -1,4 +1,4 @@
-package com.itbulls.learnit.javacore;
+package com.itbulls.learnit.javacore.numbersystems;
 
 public class NumberSystems {
 	
